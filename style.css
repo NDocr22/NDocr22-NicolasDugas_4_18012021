@@ -734,7 +734,9 @@ h4 {
     margin-bottom: 14px;
     margin-top: 24px;
 }
-
+.citation {
+    font-size: 15px;
+}
 .white {
     color: #FFFFFF!important;
 }
